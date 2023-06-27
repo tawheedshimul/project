@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import MusicPlayer from './Pages/Music/Music';
 
 function App() {
   return (
     <div className="App">
-      <h6>hit</h6>
-      <h1>hit</h1>
+      <MusicPlayer></MusicPlayer>
     </div>
   );
 }
